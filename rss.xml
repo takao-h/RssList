@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
     <body>
-        <outline text="広告、SNS情報" title="広告、SNS情報">
+        <outline text="広告" title="広告">
             <outline type="rss" text="ソーシャルメデアラボ" title="ソーシャルメデアラボ" htmlUrl="https://gaiax-socialmedialab.jp/" xmlUrl="https://gaiax-socialmedialab.jp/" />
             <outline type="rss" text="Six Apart ブログ" title="Six Apart ブログ" htmlUrl="https://blog.sixapart.jp/" xmlUrl="https://blog.sixapart.jp/" />
             <outline type="rss" text="ソーシャルメデアマーケティングラボ" title="ソーシャルメデアマーケティングラボ" htmlUrl="https://smmlab.jp/" xmlUrl="https://smmlab.jp/" />
@@ -17,8 +17,10 @@
             <outline type="rss" text="AdGang" title="AdGang" htmlUrl="https://adgang.jp/" xmlUrl="https://adgang.jp/" />
             <outline type="rss" text="BuzGang" title="BuzGang" htmlUrl="http://buzzgang.jp/" xmlUrl="http://buzzgang.jp/" />
             <outline type="rss" text="電通報" title="電通報" htmlUrl="https://dentsu-ho.com/" xmlUrl="https://dentsu-ho.com/" />
-            <outline type="rss" text="AWS Mobile Blog" title="AWS Mobile Blog" htmlUrl="https://aws.amazon.com/blogs/mobile/" xmlUrl="https://aws.amazon.com/blogs/mobile/feed" />
-            <outline type="rss" text="ADWEEK" title="ADWEEK" htmlUrl="http://www.adweek.com/" xmlUrl="http://www.adweek.com/" />
+        </outline>
+        <outline text="Instagram" title="Instagram">
+          <outline type="rss" text="インスタラボ" title="インスタラボ" htmlUrl="https://find-model.jp/insta-lab/" xmlUrl="https://find-model.jp/insta-lab/" />
+          <outline type="rss" text="インスタアンテナ" title="インスタアンテナ" htmlUrl="http://insta-antenna.com/" xmlUrl="http://insta-antenna.com/" />
         </outline>
     </body>
 </opml>
